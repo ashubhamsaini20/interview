@@ -1,0 +1,27 @@
+{
+  "name": "interview",
+  "version": "16.17.0",
+  "description": "interview prepration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashubhamsaini20/interview.git"
+  },
+  "keywords": [
+    "[interview",
+    "code]"
+  ],
+  "author": "shubham saini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashubhamsaini20/interview/issues"
+  },
+  "homepage": "https://github.com/ashubhamsaini20/interview#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
