@@ -1,4 +1,3 @@
-console.log("aaa".charCodeAt())
 
 
 class HashTable {
@@ -7,7 +6,6 @@ class HashTable {
     }
 
     _hash(key) {
-        console.log(key);
         let hash = 0
         key.map(char => {
             hash = char.charCodeAt()
@@ -18,4 +16,3 @@ class HashTable {
 
 const myObj = new HashTable(10);
 console.log(myObj);
-myObj._hash("aa")
