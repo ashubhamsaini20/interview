@@ -1,0 +1,1 @@
+// like reverse of string

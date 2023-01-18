@@ -1,0 +1,1 @@
+// keep record of largest, 2nd largest value & on iterating copmaring and changee acc
